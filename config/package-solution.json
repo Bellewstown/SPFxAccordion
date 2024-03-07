@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-accordion-client-side-solution",
+    "id": "03608fc7-d34b-4786-a132-3f5214f661e1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-fx-accordion description"
+      },
+      "longDescription": {
+        "default": "sp-fx-accordion description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-fx-accordion Feature",
+        "description": "The feature that activates elements of the sp-fx-accordion solution.",
+        "id": "ad1f13c5-ede3-4075-9366-639c7bda3787",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-accordion.sppkg"
+  }
+}
